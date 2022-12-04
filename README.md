@@ -1,1 +1,1 @@
-# JupyterNotebookProject
+# jupyternotebookproject
